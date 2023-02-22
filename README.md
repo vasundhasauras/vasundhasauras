@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vas Sharma</h1>
 
-<h5> I’m a product designer with a focus on UI,UX and visual design. With 8+ years of experience, I take products from the ideation stage to the launch stage.</h5>
+<h4> I’m a product designer with a focus on UI,UX and visual design. <br>With 8+ years of experience, I take products from the ideation stage to the launch stage.</h4>
 
 - I have worked on a variety of projects which include, AI, Edutech, Environment, College Safety and Intersex Community. I have also designed products based on OCR, automated scheduling and data management.
 
