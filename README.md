@@ -6,7 +6,7 @@
 
 - I’m currently learning: Deutsch (B1)
 
-- Visit my website: [https://www.vas-sharma.design](vas-sharma.design)
+- Visit my website: [https://www.vas-sharma.design](https://www.vas-sharma.design)
 
 - I'm expanding and developing: [Lighthaus Theme](https://github.com/lighthaus-theme), alongside [Adi Sirohi](https://github.com/Brutuski)
 
