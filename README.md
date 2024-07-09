@@ -8,8 +8,6 @@
 
 - Visit my website: [https://www.vas-sharma.design](https://www.vas-sharma.design)
 
-- I'm expanding and developing: [Lighthaus Theme](https://github.com/lighthaus-theme), alongside [Adi Sirohi](https://github.com/Brutuski)
-
 - Email me at: <a href="mailto:vasundhara.14@gmail.com?subject=Reaching out via GitHub">vasundhara.14@gmail.com</a>
 
 - Or schedule a meeting directly: [Calendly](https://calendly.com/meet-vas/1hour)
